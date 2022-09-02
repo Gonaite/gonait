@@ -1,5 +1,9 @@
 Hello Worlｄ ABC
 branch_dev commit master
+<<<<<<< HEAD
 111111
 develop commit
 feature commit
+=======
+111111
+>>>>>>> parent of 911d7c6 (develop commit)
